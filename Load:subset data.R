@@ -4,7 +4,6 @@
 #Libraries
 library(readr)
 
-
 #Counties data loading (NECESSARY)
 #load the raw counties data
 countiesraw <- read_csv("data/counties.csv")
